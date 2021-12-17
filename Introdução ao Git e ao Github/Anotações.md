@@ -1,4 +1,4 @@
-## Lista de Comandos do Git
+## Lista de Comandos do Git :bookmark_tabs:
 
 - git init : Este comando é usado para criar um novo repositório GIT.
 - git add  : O comando git add pode ser usado para adicionar arquivos ao índice.
